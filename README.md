@@ -6,7 +6,6 @@ Create a program that resolves a sudoku.
 A valid sudoku has only one possible solution.
 
 Team members:
-
-gowolade
-lucav
-sonalkamat
+  1. Gowolade
+  2. Lucav
+  3. SonalKamat
